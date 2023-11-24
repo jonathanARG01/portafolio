@@ -12,13 +12,13 @@ const Skill = ({ name, type, profile, img }) => {
     const [show, setShow] = useState(false);
 
     const handleClose = () => setShow(false);
-    const handleShow = () => setShow(true);
+    // const handleShow = () => setShow(true);
 
 
     return (
     
         <>
-            <div className="skill" variant="primary" onClick={handleShow} skill={ name }>
+            <div className="skill" variant="primary" skill={ name }>
                 <h6> { name }</h6>
                 <img src={ img } alt={ name } />
             </div>
