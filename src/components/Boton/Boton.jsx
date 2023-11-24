@@ -1,10 +1,10 @@
 import React from 'react'
-import { useLanguage } from './../../LanguageContext.jsx';
-import './Button.css'
+import { useLanguage } from '../../LanguageContext.jsx';
+import './Boton.css'
 
 
 
-const Button = () => {
+const Boton = () => {
 
     const { language, toggleLanguage } = useLanguage();
 
@@ -24,4 +24,4 @@ const Button = () => {
 
 
 
-export default Button
+export default Boton

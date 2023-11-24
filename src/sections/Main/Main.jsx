@@ -3,8 +3,6 @@ import { useLanguage } from './../../LanguageContext.jsx';
 
 import './Main.css';
 
-import Button from '../../components/button/Button';
-
 
 
 const Main = () => {
@@ -20,7 +18,6 @@ const Main = () => {
                 <div className="fondo" style={{ backgroundImage: "url('fondo2.jpg')" }}></div>
                 
                 <p> { language ? 'I´m a' : 'Soy' } <br /><span>{ language ? 'Frontend Developer' : 'Desarrollador Frontend' }</span></p>
-                <Button />
             
             </section>
         

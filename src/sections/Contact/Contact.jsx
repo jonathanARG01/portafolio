@@ -19,7 +19,7 @@ const Contact = () => {
 
                 <Title title={ language ? 'Contact Me' : 'Contáctame' } />
 
-                <div class="container-contact">
+                <div className="container-contact">
 
                     <div>
                         <img src="movil.png" alt="movil" />
