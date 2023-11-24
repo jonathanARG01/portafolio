@@ -1,0 +1,63 @@
+.navbar {
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: #000000 !important;
+    border-bottom: 1px solid #ffffff45;
+}
+.navbar a {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition-duration: .3s;
+}
+.navbar a:hover {
+    color: #fdbd32;
+}
+.navbar a.active {
+    color: #fdbd32 !important;
+}
+.navbar .languages {
+    display: flex;
+    position: absolute;
+    right: 10px;
+}
+.navbar .languages li {
+    list-style: none;
+}
+.navbar .languages li button {
+    background-color: transparent;
+    border: none;
+    transition-duration: .3s;
+    opacity: .4;
+}
+.navbar .languages li button.active {
+    opacity: 1;
+}
+.navbar .languages li button img {
+    height: 30px;
+}
+
+
+
+@media (max-width: 1400px) {}
+@media (max-width: 1200px) {}
+@media (max-width: 992px) {
+    .navbar .navbar-toggler-icon {
+        filter: invert(1);
+    }
+    .navbar .container {
+        max-width: 100%;
+        background-color: #000000;
+    }
+    .navbar .navbar-collapse {
+        margin: 40px 0;
+    }
+}
+@media (max-width: 768px) {}
+@media (max-width: 576px) {}
+

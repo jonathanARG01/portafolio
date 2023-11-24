@@ -1,0 +1,397 @@
+[
+    {
+        "name": "Fasil Seguros",
+        "type": "Website",
+        "img": "page00.png",
+        "url": "https://fasilseguros.cl/#/",
+        "tech": [
+            "Angular",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Nextperience",
+        "type": "Website",
+        "img": "page30.png",
+        "url": "https://nextperience.cl/#/",
+        "tech": [
+            "Angular",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Lindsay",
+        "type": "Landing",
+        "img": "page32.png",
+        "url": "https://lindsay-dev.netlify.app/",
+        "tech": [
+            "React",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Claro - Sucursal",
+        "type": "Website",
+        "img": "page29.png",
+        "url": "https://claro-sucursal.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Brio",
+        "type": "Website",
+        "img": "page28.png",
+        "url": "https://brio.nextperience.cl/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Malas Juntas",
+        "type": "Landing",
+        "img": "page33.png",
+        "url": "https://barberiamalasjuntas.cl/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Rally Caminos del Inca",
+        "type": "Website",
+        "img": "page1.png",
+        "url": "https://rallycaminos.com/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Wisetrack Corp",
+        "type": "Website",
+        "img": "page2.png",
+        "url": "https://www.wisetrackcorp.com/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Chile Salud",
+        "type": "Landing",
+        "img": "page3.png",
+        "url": "https://chile-salud.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "UCSH - Academico",
+        "type": "App",
+        "img": "page35.png",
+        "url": "https://ucsh-academico.netlify.app/home",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Lomecan",
+        "type": "Landing",
+        "img": "page4.png",
+        "url": "https://www.lomecancopa.cl/",
+        "tech": [
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Philips - S3000",
+        "type": "Landing",
+        "img": "page5.png",
+        "url": "https://philips-s3000.netlify.app/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Philips - S5000",
+        "type": "Landing",
+        "img": "page6.png",
+        "url": "https://philips-s5000.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Philips - S8000",
+        "type": "Landing",
+        "img": "page7.png",
+        "url": "https://philips-s8000.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Philips - Shavers",
+        "type": "Landing",
+        "img": "page8.png",
+        "url": "https://philips-shavers.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Suerox",
+        "type": "Landing",
+        "img": "page9.png",
+        "url": "https://suerox.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Vive tu verano",
+        "type": "Landing",
+        "img": "page10.png",
+        "url": "https://vivetuverano.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "VyV - Sullana",
+        "type": "Landing",
+        "img": "page11.png",
+        "url": "https://vyv-sullana.netlify.app/",
+        "tech": [
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Abastible - Pago de cuentas",
+        "type": "Landing",
+        "img": "page12.png",
+        "url": "https://pagodecuenta.abastible.cl/pago_abastible/#granel",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Visions Latam",
+        "type": "Website",
+        "img": "page13.png",
+        "url": "https://visionslatam.com/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Aventura Motors",
+        "type": "Website",
+        "img": "page15.png",
+        "url": "https://aventuramotors.cl/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "CEP - Estudios publicos",
+        "type": "Website",
+        "img": "page16.png",
+        "url": "https://www.estudiospublicos.cl/index.php/cep",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Marcan",
+        "type": "Mailing",
+        "img": "page17.png",
+        "url": "https://marcan-email.netlify.app/",
+        "tech": [
+            "Html",
+            "Css"
+        ]
+    },
+    {
+        "name": "Gudbalance",
+        "type": "Mailing",
+        "img": "page18.png",
+        "url": "https://gudbalance-email-exito.netlify.app/",
+        "tech": [
+            "Html",
+            "Css"
+        ]
+    },
+    {
+        "name": "Viu Clinic",
+        "type": "Website",
+        "img": "page19.png",
+        "url": "https://viuclinic.cl/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Olin",
+        "type": "Landing",
+        "img": "page20.png",
+        "url": "https://olin.nextperience.cl/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Wisecity App",
+        "type": "Website",
+        "img": "page14.png",
+        "url": "https://lab.nextperience.cl/wisecity-soap/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "VyV - International",
+        "type": "Website",
+        "img": "page23.png",
+        "url": "https://vyvrealestate.us/",
+        "tech": [
+            "Wordpress",
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Reimagina",
+        "type": "Website",
+        "img": "page24.png",
+        "url": "https://lab.nextperience.cl/reimagina/index.html",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Canal 13 - Programación",
+        "type": "Mailing",
+        "img": "page26.png",
+        "url": "https://canal13-programacion.netlify.app/",
+        "tech": [
+            "Html",
+            "Css"
+        ]
+    },
+    {
+        "name": "Canal 13 - Valores",
+        "type": "Mailing",
+        "img": "page27.png",
+        "url": "https://canal13-valores.netlify.app/",
+        "tech": [
+            "Html",
+            "Css"
+        ]
+    },
+    {
+        "name": "Gasco - Pago de cuentas",
+        "type": "Landing",
+        "img": "page31.png",
+        "url": "https://gasco-dev.netlify.app/",
+        "tech": [
+            "Bootstrap",
+            "Html",
+            "Css",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Perumin",
+        "type": "Mailing",
+        "img": "page34.png",
+        "url": "https://perumin-email1.netlify.app/",
+        "tech": [
+            "Html",
+            "Css"
+        ]
+    }
+]
